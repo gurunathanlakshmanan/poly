@@ -445,7 +445,7 @@ function animate() {
 
 }
 var modelList = [
-            {
+           /* {
                 name: "crash.obj", url: 'sample_models/crash2.obj'
             },
             {
@@ -465,9 +465,9 @@ var modelList = [
             {
                 name: "skeleton.obj", url: 'sample_models/skeleton.obj'
             }
-			,
+			,*/
             {
-                name: "A320_Landing_Gear.fbx", url: 'sample_models/A320_Landing_Gear.fbx'
+                name: "A320_Landing_Gear.fbx", url: 'sample_models/bear-obj.obj'
             },
             {
                 name: "Book.fbx", url: 'sample_models/Book.fbx'
