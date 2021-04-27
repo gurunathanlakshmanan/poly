@@ -465,6 +465,38 @@ var modelList = [
             {
                 name: "skeleton.obj", url: 'sample_models/skeleton.obj'
             }
+			,
+            {
+                name: "A320_Landing_Gear.fbx", url: 'sample_models/A320_Landing_Gear.fbx'
+            },
+            {
+                name: "Book.fbx", url: 'sample_models/Book.fbx'
+            },
+            {
+                name: "Businessclass_Seat.fbx", url: 'sample_models/Businessclass_Seat.fbx'
+            },
+            {
+                name: "Christmas_Tree.fbx", url: 'sample_models/Christmas_Tree.fbx'
+            },
+            {
+                name: "CPU_Body.fbx", url: 'sample_models/CPU_Body.fbx'
+            },
+            {
+                name: "CPU_MotherBoard.fbx", url: 'sample_models/CPU_MotherBoard.fbx'
+            },
+            {
+                name: "Cpu_Processor.fbx", url: 'sample_models/Cpu_Processor.fbx'
+            },
+            {
+                name: "CPU_RAM.fbx", url: 'sample_models/CPU_RAM.fbx'
+            },
+            {
+                name: "crash2.obj", url: 'sample_models/crash2.obj'
+            },
+            {
+                name: "Econamy Seat.fbx", url: 'sample_models/Econamy Seat.fbx'
+            }
+			
 ];
 
 function switchScene(index) {
