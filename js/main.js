@@ -445,30 +445,7 @@ function animate() {
 
 }
 var modelList = [
-           /* {
-                name: "crash.obj", url: 'sample_models/crash2.obj'
-            },
-            {
-                name: "bear.obj", url: 'sample_models/bear-obj.obj'
-            },
-            {
-                name: "car.obj", url: 'sample_models/car2.obj'
-                //, objectRotation: new THREE.Euler(0, 3 * Math.PI / 2, 0)
-                        
-            },
-            {
-                name: "tiger.obj", url: 'sample_models/Tiger.obj'
-            },
-            {
-                name: "dinosaur.obj", url: 'sample_models/Dinosaur_V02.obj'
-            },
-            {
-                name: "skeleton.obj", url: 'sample_models/skeleton.obj'
-            }
-			,*/
-            {
-                name: "A320_Landing_Gear.fbx", url: 'sample_models/bear-obj.obj'
-            },
+          
             {
                 name: "Book.fbx", url: 'sample_models/Book.fbx'
             },
