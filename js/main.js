@@ -446,7 +446,7 @@ function animate() {
 }
 var modelList = [
            {
-                name: "book.obj", url: 'sample_models/book.obj'
+                name: "car2.obj", url: 'sample_models/car2.obj'
             }
       
 			
