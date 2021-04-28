@@ -445,12 +445,39 @@ function animate() {
 
 }
 var modelList = [
-           {
-                name: "Office_Chair.obj", url: 'sample_models/Office_Chair.obj'
-           },
-		   {
+            {
                 name: "Businessclass_Seat.obj", url: 'sample_models/Businessclass_Seat.obj'
-           }
+            },
+            {
+                name: "car2.obj", url: 'sample_models/car2.obj'
+            },
+            {
+                name: "Cpu_Mother_Board.obj", url: 'sample_models/Cpu_Mother_Board.obj'
+            },
+            {
+                name: "Econamy_Seat.obj", url: 'sample_models/Econamy_Seat.obj'
+            },
+            {
+                name: "Female_Avatar_With_Long hair.obj", url: 'sample_models/Female_Avatar_With_Long hair.obj'
+            },
+            {
+                name: "Female_Avatar_With_Short hair.obj", url: 'sample_models/Female_Avatar_With_Short hair.obj'
+            },
+            {
+                name: "Fusalage_Trolley.obj", url: 'sample_models/Fusalage_Trolley.obj'
+            },
+            {
+                name: "Landing_Gear.obj", url: 'sample_models/Landing_Gear.obj'
+            },
+            {
+                name: "Office_Chair.obj", url: 'sample_models/Office_Chair.obj'
+            },
+            {
+                name: "Robotic_Arm.obj", url: 'sample_models/Robotic_Arm.obj'
+            },
+            {
+                name: "UNO_Board.obj", url: 'sample_models/UNO_Board.obj'
+            }
 			
 ];
 
