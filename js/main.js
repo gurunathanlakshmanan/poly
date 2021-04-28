@@ -447,8 +447,10 @@ function animate() {
 var modelList = [
            {
                 name: "Office_Chair.obj", url: 'sample_models/Office_Chair.obj'
-            }
-      
+           },
+		   {
+                name: "Businessclass_Seat.obj", url: 'sample_models/Businessclass_Seat.obj'
+           }
 			
 ];
 
