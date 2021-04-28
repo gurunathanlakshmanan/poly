@@ -444,9 +444,8 @@ function animate() {
     render();
 
 }
-var modelList = [   
-           
-            {
+var modelList = [
+           {
                 name: "Businessclass_Seat.fbx", url: 'sample_models/obj/Businessclass_Seat.fbx'
             },
             {
