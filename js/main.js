@@ -446,7 +446,7 @@ function animate() {
 }
 var modelList = [
            {
-                name: "Office_Chair.fbx", url: 'sample_models/Office_Chair.fbx'
+                name: "Office_Chair.obj", url: 'sample_models/Office_Chair.obj'
             }
       
 			
