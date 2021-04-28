@@ -445,9 +445,7 @@ function animate() {
 
 }
 var modelList = [   
-            {
-                name: "A320_With_Interior.obj", url: 'sample_models/obj/A320_With_Interior.obj'
-            },
+           
             {
                 name: "Businessclass_Seat.fbx", url: 'sample_models/obj/Businessclass_Seat.fbx'
             },
