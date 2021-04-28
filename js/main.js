@@ -446,37 +446,37 @@ function animate() {
 }
 var modelList = [
            {
-                name: "Businessclass_Seat.fbx", url: 'sample_models/obj/Businessclass_Seat.fbx'
+                name: "Office_Chair.fbx", url: 'sample_models/Office_Chair.fbx'
             },
             {
-                name: "car2.fbx", url: 'sample_models/obj/car2.fbx'
+                name: "car2.fbx", url: 'sample_models/car2.fbx'
             },
             {
-                name: "Cpu_Mother_Board.fbx", url: 'sample_models/obj/Cpu_Mother_Board.fbx'
+                name: "Cpu_Mother_Board.fbx", url: 'sample_models/Cpu_Mother_Board.fbx'
             },
             {
-                name: "Econamy_Seat.fbx", url: 'sample_models/obj/Econamy_Seat.fbx'
+                name: "Econamy_Seat.fbx", url: 'sample_models/Econamy_Seat.fbx'
             },
             {
-                name: "Female_Avatar_With_Long hair.fbx", url: 'sample_models/obj/Female_Avatar_With_Long hair.fbx'
+                name: "Female_Avatar_With_Long hair.fbx", url: 'sample_models/Female_Avatar_With_Long hair.fbx'
             },
             {
-                name: "Female_Avatar_With_Short hair.fbx", url: 'sample_models/obj/Female_Avatar_With_Short hair.fbx'
+                name: "Female_Avatar_With_Short hair.fbx", url: 'sample_models/Female_Avatar_With_Short hair.fbx'
             },
             {
-                name: "Fusalage_Trolley.obj", url: 'sample_models/obj/Fusalage_Trolley.obj'
+                name: "Fusalage_Trolley.obj", url: 'sample_models/Fusalage_Trolley.obj'
             },
             {
-                name: "Landing_Gear.fbx", url: 'sample_models/obj/Landing_Gear.fbx'
+                name: "Landing_Gear.fbx", url: 'sample_models/Landing_Gear.fbx'
             },
             {
-                name: "Office_Chair.fbx", url: 'sample_models/obj/Office_Chair.fbx'
+                name: "Office_Chair.fbx", url: 'sample_models/Office_Chair.fbx'
             },
             {
-                name: "Robotic_Arm.fbx", url: 'sample_models/obj/Robotic_Arm.fbx'
+                name: "Robotic_Arm.fbx", url: 'sample_models/Robotic_Arm.fbx'
             },
             {
-                name: "UNO_Board.fbx", url: 'sample_models/obj/UNO_Board.fbx'
+                name: "UNO_Board.fbx", url: 'sample_models/UNO_Board.fbx'
             }
 			
 ];
