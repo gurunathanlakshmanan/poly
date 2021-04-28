@@ -446,31 +446,40 @@ function animate() {
 }
 var modelList = [   
             {
-                name: "Book.obj", url: 'sample_models/Book.obj'
+                name: "A320_With_Interior.obj", url: 'sample_models/obj/A320_With_Interior.obj'
             },
             {
-                name: "Businessclass_Seat.fbx", url: 'sample_models/Businessclass_Seat.fbx'
+                name: "Businessclass_Seat.fbx", url: 'sample_models/obj/Businessclass_Seat.fbx'
             },
             {
-                name: "Christmas_Tree.fbx", url: 'sample_models/Christmas_Tree.fbx'
+                name: "car2.fbx", url: 'sample_models/obj/car2.fbx'
             },
             {
-                name: "CPU_Body.fbx", url: 'sample_models/CPU_Body.fbx'
+                name: "Cpu_Mother_Board.fbx", url: 'sample_models/obj/Cpu_Mother_Board.fbx'
             },
             {
-                name: "CPU_MotherBoard.fbx", url: 'sample_models/CPU_MotherBoard.fbx'
+                name: "Econamy_Seat.fbx", url: 'sample_models/obj/Econamy_Seat.fbx'
             },
             {
-                name: "Cpu_Processor.fbx", url: 'sample_models/Cpu_Processor.fbx'
+                name: "Female_Avatar_With_Long hair.fbx", url: 'sample_models/obj/Female_Avatar_With_Long hair.fbx'
             },
             {
-                name: "CPU_RAM.fbx", url: 'sample_models/CPU_RAM.fbx'
+                name: "Female_Avatar_With_Short hair.fbx", url: 'sample_models/obj/Female_Avatar_With_Short hair.fbx'
             },
             {
-                name: "crash2.obj", url: 'sample_models/crash2.obj'
+                name: "Fusalage_Trolley.obj", url: 'sample_models/obj/Fusalage_Trolley.obj'
             },
             {
-                name: "Econamy Seat.fbx", url: 'sample_models/Econamy Seat.fbx'
+                name: "Landing_Gear.fbx", url: 'sample_models/obj/Landing_Gear.fbx'
+            },
+            {
+                name: "Office_Chair.fbx", url: 'sample_models/obj/Office_Chair.fbx'
+            },
+            {
+                name: "Robotic_Arm.fbx", url: 'sample_models/obj/Robotic_Arm.fbx'
+            },
+            {
+                name: "UNO_Board.fbx", url: 'sample_models/obj/UNO_Board.fbx'
             }
 			
 ];
